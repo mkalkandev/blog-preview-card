@@ -109,7 +109,7 @@ Frontend Mentor:<a href="https://www.frontendmentor.io/profile/mkalkandev" targe
 
 # License
 
-📝 Copyright © 2023 MustafaKalkan.
+📝 Copyright © 2024 MustafaKalkan.
 
 This project is licensed under [MIT](./LICENSE).
 
